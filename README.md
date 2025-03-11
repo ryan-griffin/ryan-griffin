@@ -1,7 +1,5 @@
-```
-    __  __     ____         _       __           __    ____
-   / / / /__  / / /___     | |     / /___  _____/ /___/ / /
-  / /_/ / _ \/ / / __ \    | | /| / / __ \/ ___/ / __  / /
- / __  /  __/ / / /_/ /    | |/ |/ / /_/ / /  / / /_/ /_/
-/_/ /_/\___/_/_/\____/     |__/|__/\____/_/  /_/\__,_(_)
-```
+# Hi, I'm Ryan 👋
+
+![Profile views](https://komarev.com/ghpvc/?username=ryan-griffin)
+
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-griffin&layout=compact&theme=transparent)
